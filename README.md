@@ -1,2 +1,6 @@
-# SOLT2
-[code]git init [/code]
+The Solmit platform is built for financial and insurance services.
+Some of the main applications that can be considered for the SOLMIT block in the insurance industry are:
+1- Identifying cases of fraud and preventing risk: By transferring insurance claims from customers to a non-manipulative head office, the Chinese block can be the main factors that lead to fraud in this industry.From the field to the door.
+2- Property and Loss Insurance: A distributed general ledger as well as insurance policies that are implemented in the form of smart contracts can lead to a significant improvement in the efficiency of property and loss insurance.
+3- Health insurance: Medical records in the Chinese block are kept in encrypted form and health insurance activists (such as doctors and insurance brokers) will have access to it. This will increase the interaction between these ecological activists Health insurance leads.
+ 4- Reinsurance: By arranging and concluding reinsurance contracts through smart contracts on the Chinese block, the flow of information and payments between the insurer and the reinsurer flows better. (A reinsurer is a company that stands next to an insurance company to reduce the risk and, with the receipt of a portion of the premium, in the event of a problem, comes to the aid of the insurance company to compensate.)
